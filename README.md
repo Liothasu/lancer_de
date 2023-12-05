@@ -1,3 +1,1 @@
-# lancer_de
-
-# Le joueur lance le dé et le dé tombe sur un chiffre voilà mdr
+# Le joueur lance le dé, et celui-ci aboutit sur un chiffre. Voilà, c'est parti ! 😄
